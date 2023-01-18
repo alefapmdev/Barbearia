@@ -1,0 +1,17 @@
+RGB = Red Green Blue
+
+Hexadecimal 
+# _ _ _ _ _ _
+0 = Ausência
+F = Máximo
+#000000 Branco
+#FFFFFF Preto
+#FF0000 Vermelho
+
+RGB = Red Green Blue
+0,1,2,3,...255
+0 = Ausência
+255 = Máximo
+rgb(255,255,255) Branco
+rgb(0,0,0) Preto
+rgb(255,0,0) Vermelho
